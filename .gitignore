@@ -1,0 +1,5 @@
+pzmlops/
+-ipynb_checkpoints/
+*.json
+*.csv
+*.pkl
